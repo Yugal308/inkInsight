@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h1>InkInight</h1>
+    <h1>InkInsight</h1>
     </>
   )
 }
